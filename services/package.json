@@ -1,0 +1,14 @@
+{
+  "name": "graphql-sequelize-services",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "ts-node-dev --respawn index.dev.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "module-alias": "^2.2.2",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4"
+  }
+}
